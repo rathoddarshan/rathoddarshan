@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rathoddarshan
-- 👀 I’m interested in Java Based Projects
-- 🌱 I’m currently learning Spring
+- 👀 I’m currently working as a Software Engineer @ Jio Platforms Limited
+- 🌱                                          
 - 💞
 - 📫
 
